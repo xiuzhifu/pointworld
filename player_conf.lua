@@ -1,0 +1,32 @@
+return {
+	[1] = {
+		name='anmeng1',
+		password = 'password'},
+	[2] = {
+		name='anmeng2',
+		password = 'password'},
+	[3] = {
+		name='anmeng3',
+		password = 'password'},
+	[4] = {
+		name='anmeng4',
+		password = 'password'},
+	[5] = {
+		name='anmeng5',
+		password = 'password'},
+	[6] = {
+		name='anmeng6',
+		password = 'password'},
+	[7] = {
+		name='anmeng7',
+		password = 'password'},
+	[8] = {
+		name='anmeng8',
+		password = 'password'},
+	[9] = {
+		name='anmeng9',
+		password = 'password'},
+	[10] = {
+		name='anmeng10',
+		password = 'password'},
+}

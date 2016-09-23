@@ -1,0 +1,1 @@
+{"stone":0,"diamond":0,"food":999,"tech":{"stone":1,"food":1,"wood":1,"gold":1},"userid":"10000147451175100006","changenametimes":0,"techlevel":1,"seeked":{"stone":0,"food":125,"wood":721,"gold":0},"name":"anmeng6","gold":0,"trade":{"stone":0,"food":0,"wood":0,"gold":0},"seeking":{"stone":0,"food":0,"wood":1,"gold":0},"wood":1000,"homelevel":2}
